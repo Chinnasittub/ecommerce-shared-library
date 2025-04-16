@@ -1,0 +1,11 @@
+D:\Ecommerce_microservices_project\shared-library\bin\Release\net8.0\SharedLibrary.deps.json
+D:\Ecommerce_microservices_project\shared-library\bin\Release\net8.0\SharedLibrary.dll
+D:\Ecommerce_microservices_project\shared-library\bin\Release\net8.0\SharedLibrary.pdb
+D:\Ecommerce_microservices_project\shared-library\obj\Release\net8.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecommerce_microservices_project\shared-library\obj\Release\net8.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\Ecommerce_microservices_project\shared-library\obj\Release\net8.0\SharedLibrary.AssemblyInfo.cs
+D:\Ecommerce_microservices_project\shared-library\obj\Release\net8.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\Ecommerce_microservices_project\shared-library\obj\Release\net8.0\SharedLibrary.dll
+D:\Ecommerce_microservices_project\shared-library\obj\Release\net8.0\refint\SharedLibrary.dll
+D:\Ecommerce_microservices_project\shared-library\obj\Release\net8.0\SharedLibrary.pdb
+D:\Ecommerce_microservices_project\shared-library\obj\Release\net8.0\ref\SharedLibrary.dll
