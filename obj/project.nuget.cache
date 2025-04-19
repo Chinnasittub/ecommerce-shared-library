@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tFK8GaRXQCs=",
+  "dgSpecHash": "eroCvSTgezo=",
   "success": true,
   "projectFilePath": "D:\\Ecommerce_microservices_project\\shared-library\\SharedLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
